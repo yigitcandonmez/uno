@@ -1,9 +1,8 @@
+import Board from './components/board'
 
 function App() {
   return (
-    <div className="App">
-      UNO
-    </div>
+    <Board />
   );
 }
 
